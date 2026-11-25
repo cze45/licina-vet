@@ -11,6 +11,10 @@
 
 Ako sajt bude na GitHub-u: Connect to Git, Framework preset = None, Build command prazno, Build output directory = `licina-vet/site` (ili `/` ako je repo samo ovaj folder).
 
+## Posle izmene CSS-a ili JS-a
+
+Povećaj broj u `styles.css?v=3` / `main.js?v=3` u `index.html`, inače posetioci do 10 minuta vide stari stil.
+
 ## Kad domen bude poznat
 
 Pretraži `DOMEN` u `index.html`, `robots.txt` i `sitemap.xml`:
