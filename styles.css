@@ -242,9 +242,8 @@ section[id] { scroll-margin-top: 72px; }
 .ftr__top-link { min-height: 48px; display: flex; align-items: center; gap: 8px; font-size: 0.9375rem; font-weight: 600; text-decoration: underline; text-underline-offset: 0.2em; }
 .ftr__top-link:hover { color: #B9BCC4; }
 .ftr__top-link svg { fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
-.ftr__credit { margin: 0; display: flex; align-items: baseline; justify-content: center; gap: 8px; font-size: 0.8125rem; color: #B9BCC4; }
-.zec { font-size: 1.125rem; font-weight: 600; letter-spacing: -0.02em; color: #FFFFFF; }
-.zec span { color: #F26522; }
+.zec { font-weight: 600; color: var(--bg); }
+.zec span { color: #A3213F; }
 @media (max-width: 1023.98px) { .f-c3, .f-pa, .f-pb, .f-half { grid-column: span 4 !important; } }
 @media (max-width: 639.98px) {
   .ftr { padding-top: 64px; }
