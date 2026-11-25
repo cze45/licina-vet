@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# DOMEN: kad domen bude poznat, zameni i otkomentariši
+# Sitemap: https://DOMEN/sitemap.xml
